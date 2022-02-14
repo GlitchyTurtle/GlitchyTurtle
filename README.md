@@ -10,9 +10,8 @@ Joined Github **2** years ago, this is my second account!
 
 ### My Absolute Favorites:
 
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
-- 📰 &nbsp; Reading & writing tech blogs whenever possible.
-- 🍕 &nbsp; Hackathons, meetups & tech events.
+- 💻 &nbsp; I love making games with unity or godot, minecraft mods or discord bots!
+- 🍕 &nbsp; Hackathons, game jams & more.
 
 ### Languages and Tools:
 
