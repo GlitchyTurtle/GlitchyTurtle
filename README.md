@@ -10,7 +10,7 @@ Joined Github **2** years ago, this is my second account!
 
 ### My Absolute Favorites:
 
-- 💻 &nbsp; I love making games with unity or godot, minecraft mods or discord bots!
+- 💻 &nbsp; I love making games with unity or godot, minecraft mods and discord bots!
 - 🍕 &nbsp; Hackathons, game jams & more.
 
 ### Languages and Tools:
