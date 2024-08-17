@@ -6,8 +6,8 @@ Joined Github **3** years ago, this is my second account!
 
 ### Personal Stuff:
 
-- 🛠 &nbsp; I’m currently working with Javascript and Python!
-- 💻 &nbsp; I have made games with unity, godot, and unreal (godot is my favourite, but unity is better)!
+- 🛠 &nbsp; I’m currently working with Javascript, and some python to experimental with LLMs and stuff!
+- 💻 &nbsp; I have made games with unity, godot, and unreal (godot is my favourite, but unity is better for now)!
 
 ### Languages and Tools:
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="c#"></code>
