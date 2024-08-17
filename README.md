@@ -1,6 +1,6 @@
 ## Hey 👋, I'm GlitchyTurtle!
 
-Hey! I'm GlitchyTurtle, and I'm a minecraft bedrock addon developer! Right now, I am working on Avatar Addon and Paradox Anticheat (collaborative bedrock anti-cheat). Check me out on [mcpedl](https://mcpedl.com/user/glitchyturtle32/). Want to contact me? Your best bet is probably with discord: **Glitch#8024**
+Hey! I'm GlitchyTurtle, and I'm a minecraft bedrock addon developer! Right now, I am working on Avatar Addon and Paradox Anticheat (collaborative bedrock anti-cheat). Check me out on [mcpedl](https://mcpedl.com/user/glitchyturtle32/). Want to contact me? Your best bet is probably with discord: **glitchyturtle32**
 
 Joined Github **3** years ago, this is my second account!
 
